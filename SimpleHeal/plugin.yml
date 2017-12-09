@@ -1,0 +1,12 @@
+name: SimpleHeal
+version: 1.2
+main: ch.lanehd.heal.main.Main
+author: LaneHD
+description: Dies ist ein simples Heil-Plugin
+commands:
+   heal:
+      description: Mit diesem Befehl kannst du einen Spieler heilen!
+   feed:
+      description: Mit diesem Befehl kannst du einen Spieler fuettern!
+   simpleheal:
+      description: Dieser Befehl ist fuer die Konfiguration des Plugins!
